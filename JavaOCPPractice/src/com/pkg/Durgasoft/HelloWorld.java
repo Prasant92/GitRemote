@@ -7,5 +7,6 @@ public class HelloWorld {
 		int a=10;
 		int b=11;
 		System.out.println(a+b);
+		System.out.println(Math.abs(a-b));
 	}
 }
